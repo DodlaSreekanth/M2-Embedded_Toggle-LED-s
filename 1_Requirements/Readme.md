@@ -13,15 +13,18 @@ The increasing demand for light emitting diodes (LEDs) has been driven by a numb
 ## Cost and Features and Timeline
 
 The LED lamp market is projected to grow from $75.8 billion in 2020 and increasing to $160 billion in 2026.
+LEDs come to full brightness immediately with no warm-up delay. Frequent switching on and off does not reduce life expectancy as with fluorescent lighting.
 ## SWOT ANALYSIS
 
 ## STRENGTHS 
-
+A decade back, who would have thought that technology will enable controlling light bulbs with the help of a smartphone! Using LED smart lighting technology, bulbs can connect to a smart device using wireless technology. Motion sensors can also be set up on these lights to switch them on or off based on a person’s proximity to the sensor. Such innovations give the user complete control of their lighting system and this is one of the major benefits of LED smart lights. Another major benefit of LED smart lighting technology is reduced electricity consumption. Due to the increased sustainability, smart LED lights manufacturers can expect greater government incentives to support their operations. Although this is a breakthrough innovation, the setup of these smart bulbs is as simple as it can get. Once the bulb gets inserted into the light source, all it takes is to download an appropriate app and set up the wireless connectivity, making it simple and easy to use.
 ## WEAKNESSES
-
+Since this technology is relatively new, not a lot of people are aware of these bulbs. Furthermore, some of the top companies producing LED smart lights also deal with conventional bulbs, making this a tough market to battle against.  As such, smart lighting companies must focus more on the tech-savvy population, especially millennials who have an affinity towards such innovations. Moreover, as the pricing of these bulbs is on the higher side, there are greater chances of reluctance from customers to buy this product. Another important drawback of an LED smart bulb is that not all of these bulbs follow the same setup process. While most models use wireless technology to connect, some of them may require additional hubs or switches to function as expected. Such complicated installation processes make it even more difficult to make such technology mainstream.
 ## OPPORTUNITIES
-
+The rising government incentives for energy-saving products are an opportunity for LED smart lighting companies to expand their business operations by making more products available to the market. Factors such as rapid urbanization and the rising need for mobility could also largely fuel the growth of this industry. Furthermore, companies in the sector can also plan to move beyond catering to domestic needs and expand at an industrial or organizational scale. As a greater number of companies are trying to incorporate sustainable practices and the benefits of longer-lasting bulbs are a key incentive to attract corporate clients.
 ## THREATS 
+The lighting industry is characterized by cut-throat competition, with market players offering similar products and aiming to be leaders in the smart lighting segment. However, traditional bulbs continue to dominate the market with only a small population of buyers for smart bulbs currently. Moreover, the traditional lighting options are much cheaper than the smart lighting solutions, making it a more favored segment among buyers. Another major barrier is the complications involved in the setup and usage of smart bulbs. Due to the relatively complex procedures involved, buyers may choose to go with the traditional options available.
+
 
 # 4W's and 1'H
 ## Who:  
