@@ -34,9 +34,9 @@ A light-emitting diode (LED) is a semiconductor light source that emits light wh
 ## When:
 In 1962, Nick Holonyak, Jr invented the first LED that produced visible, red light while working at General Electric.
 ## Where:
-
+The high efficiency and directional nature of LEDs makes them ideal for many industrial uses. LEDs are increasingly common in street lights, parking garage lighting, walkway and other outdoor area lighting, refrigerated case lighting, modular lighting, and task lighting.
 ## How:
-
+The light-emitting diode simply, we know as a diode. When the diode is forward biased, then the electrons & holes are moving fast across the junction and they are combined constantly, removing one another out. Soon after the electrons are moving from the n-type to the p-type silicon, it combines with the holes, then it disappears. Hence it makes the complete atom & more stable and it gives the little burst of energy in the form of a tiny packet or photon of light.
 # Detail requirements
 ## High Level Requirements
 
