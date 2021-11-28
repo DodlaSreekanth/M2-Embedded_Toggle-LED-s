@@ -28,11 +28,11 @@ The lighting industry is characterized by cut-throat competition, with market pl
 
 # 4W's and 1'H
 ## Who:  
-
+In 1962, Nick Holonyak Jr. and his team at GE invented the Light Emitting Diode.
 ## What:
-
+A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it. While LED lights are almost everywhere today — from bridges to headlights to keychain flashlights that are brighter than the sun.
 ## When:
-
+In 1962, Nick Holonyak, Jr invented the first LED that produced visible, red light while working at General Electric.
 ## Where:
 
 ## How:
