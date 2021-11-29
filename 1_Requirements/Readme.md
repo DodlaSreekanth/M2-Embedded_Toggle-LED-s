@@ -39,12 +39,12 @@ The high efficiency and directional nature of LEDs makes them ideal for many ind
 The light-emitting diode simply, we know as a diode. When the diode is forward biased, then the electrons & holes are moving fast across the junction and they are combined constantly, removing one another out. Soon after the electrons are moving from the n-type to the p-type silicon, it combines with the holes, then it disappears. Hence it makes the complete atom & more stable and it gives the little burst of energy in the form of a tiny packet or photon of light.
 # Detail requirements
 ## High Level Requirements
-Atmega 328
-3LED'S
-Source(VCC +5V)
+### Atmega 328
+### 3LED'S
+### Source(VCC +5V)
 
 ##  Low level Requirements:
-Resistors
-Switch
-Ground
+### Resistors
+### Switch
+### Ground
 
