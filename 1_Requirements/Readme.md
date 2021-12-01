@@ -42,9 +42,12 @@ The light-emitting diode simply, we know as a diode. When the diode is forward b
 ### Atmega 328
 ### 3LED'S
 ### Source(VCC +5V)
+### micro controller
 
 ##  Low level Requirements:
 ### Resistors
 ### Switch
 ### Ground
+### Avr gcc compiler
+### simulide
 
