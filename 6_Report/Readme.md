@@ -59,3 +59,23 @@ The light-emitting diode simply, we know as a diode. When the diode is forward b
 
 
 ![image](https://atmega32-avr.com/wp-content/uploads/2021/10/Pinout-Diagram-ATmega328P.jpg)
+
+
+# Source code
+
+#define F_CPU 16000000UL
+#include <avr/io.h>
+#include <util/delay.h>
+
+int main(void)
+{
+	DDRB |= (1<<DDB1);
+    while (1) 
+    {
+	PORTB |= (1<<PORTB1);
+	_delay_ms(1000);
+	PORTB &= ~ (1<<PORTB1);
+	_delay_ms(1000);
+    }
+}
+
