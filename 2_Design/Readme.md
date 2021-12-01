@@ -7,3 +7,6 @@
 ![image](https://www.circuitstoday.com/wp-content/uploads/2017/10/Toggle-2-LEDs-Using-Push-Button-Switch-Circuit-Diagram.jpg)
 
 
+![image](https://atmega32-avr.com/wp-content/uploads/2021/10/Pinout-Diagram-ATmega328P.jpg)
+
+
