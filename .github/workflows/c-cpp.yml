@@ -1,15 +1,23 @@
-#define F_CPU 16000000UL
-#include <avr/io.h>
-#include <util/delay.h>
+name: C/C++ CI
 
-int main(void)
-{
-	DDRB |= (1<<DDB1);
-    while (1) 
-    {
-	PORTB |= (1<<PORTB1);
-	_delay_ms(1000);
-	PORTB &= ~ (1<<PORTB1);
-	_delay_ms(1000);
-    }
-}
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: configure
+      run: ./configure
+    - name: make
+      run: make
+    - name: make check
+      run: make check
+    - name: make distcheck
+      run: make distcheck
