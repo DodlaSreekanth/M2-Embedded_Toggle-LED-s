@@ -7,6 +7,7 @@
 int main(void)
 
 {
+	
 	DDRB |= (1<<DDB1);
 	
     while (1) 
