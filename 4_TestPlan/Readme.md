@@ -1,6 +1,7 @@
 # TEST PLAN:
 
-![image]("C:\Users\Srikanth\Pictures\Screenshots\Screenshot (23).png")
+![image](![Screenshot (23)](https://user-images.githubusercontent.com/94154289/144221801-11324270-be42-4196-8abd-477480cd73dc.png)
+)
 
 ## Table no: High level test plan
 
