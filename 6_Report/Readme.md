@@ -57,7 +57,7 @@ The light-emitting diode simply, we know as a diode. When the diode is forward b
 
 ![image](https://www.circuitstoday.com/wp-content/uploads/2017/10/Toggle-2-LEDs-Using-Push-Button-Switch-Circuit-Diagram.jpg)
 
-
+## Pin diagram
 ![image](https://atmega32-avr.com/wp-content/uploads/2021/10/Pinout-Diagram-ATmega328P.jpg)
 
 
@@ -112,6 +112,13 @@ int main(void)
 |  L_01       |Second switch on first switch off                             |one led glow| 2nd led glow| led2 glow      | condition based  |
 |  L_02       |first switch on second switch off                             |one led glow| 1st led glow| led1 glow      | condition based  |
 
+
+# Images
+
+![image](![Screenshot (23)](https://user-images.githubusercontent.com/94154289/144221801-11324270-be42-4196-8abd-477480cd73dc.png)
+
+
+![image](https://forum.lazarus.freepascal.org/index.php?PHPSESSID=5gklas5u1dt92budcvjl2kkcl1&action=dlattach;topic=49169.0;attach=36264;image)
 
 
 
