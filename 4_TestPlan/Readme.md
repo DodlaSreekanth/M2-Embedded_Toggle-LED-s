@@ -7,18 +7,16 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------ |-------------|----------------|------------------|
-|  H_01       |Square of two numbers                                         |Square of 4   |16            |16               |Square based      |
-|  H_02       |Square root of the number                                     |Square root of 5|2.23        |2.23             |Square root based    |
+|  H_01       |If one switch on                                              |one led glow |  led1 glow  |  led1 glow     |condition  based  |
+|  H_02       |Both switches on                                              |Both led's glow| led1 and led2 glow | both glow|condiyion based|
 
 
 ## Table no: Low level test plan
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |Addition of two numbers                                       |  10+4      | 14          | 14             |Addition based    |
-|  L_02       |Subtraction of two numbers                                    |  10-4      | 6           |  6             |Subtraction based    |
-|  L_03       |Multiplication of two numbers                                 |  10*4      | 40          | 40             |Multiplication based    |
-|  L_04       |Division of two numbers                                       |  10/2      | 5           |  5             |Division based      |
+|  L_01       |Second switch on first switch off                             |one led glow| 2nd led glow| led2 glow      | condition based  |
+|  L_02       |first switch on second switch off                             |one led glow| 1st led glow| led1 glow      | condition based  |
 
 # HIGH LEVEL TEST PLAN
 
